@@ -12,7 +12,7 @@ It includes a **Home page** to introduce myself and a **Contact page** to get in
 - CSS3  
 
 ## Live Demo  
-👉 [View Portfolio Website](link)]  
+👉 [View Portfolio Website](https://github.com/anbarasuanbu68543-lgtm/portofolio-simple-website)]  
 
 ## How to Run Locally  
 1. Download or clone this repository  
